@@ -18,7 +18,6 @@
   "author": "Michael J. Choi",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "5621ebbee993a4c78704452a5982a7e601ba4df4",
   "dependencies": {
     "moment": "~2.0.0"
   }
