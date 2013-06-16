@@ -1,6 +1,6 @@
 {
   "name": "imaginary-player",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "pseudo-streaming/broadcasting media player",
   "main": "./lib/imaginary-player",
   "repository": {
