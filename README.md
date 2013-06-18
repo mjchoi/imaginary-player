@@ -3,6 +3,8 @@ imaginary-player
 
 npm module for pseudo-streaming/broadcasting
 
+[![Build Status](https://travis-ci.org/mjchoi/imaginary-player.png)](https://travis-ci.org/mjchoi/imaginary-player)
+
 ## Motivation
 
 Broadcasting is a complex problem (such that every visitor would be sychronized to watch the same moment). Luckly with HTML5 `<video>` and [Media Fragments URI](http://www.w3.org/TR/media-frags/), the client can do most of this work -- we just need to supply where something is currently playing. :sunglasses: Hence this module is a fancy timer in essence. See [below](#about-html5-video-support) for HTML `<video>` support.
