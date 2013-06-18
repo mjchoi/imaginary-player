@@ -20,5 +20,9 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "moment": "~2.0.0"
+  },
+  "devDependencies": {
+    "chai": "~1.7.0",
+    "mocha": "~1.11.0"
   }
 }
