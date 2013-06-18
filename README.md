@@ -81,3 +81,9 @@ I'm not a video / encoding format expert.  This [article](http://diveintohtml5.i
 * .webm (VP8 + Vorbis)
 * .mp4 (H.264 + AAC)
 * .ogg (Theora + Vorbis)
+
+## Fun facts
+
+By coincidence :wink:, Jay-Z has an awesome track named _Imaginary Player_.
+
+<img src="http://imgur.com/vyZxJd2.jpg">
