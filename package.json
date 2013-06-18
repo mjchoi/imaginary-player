@@ -24,5 +24,8 @@
   "devDependencies": {
     "chai": "~1.7.0",
     "mocha": "~1.11.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --reporter nyan"
   }
 }
