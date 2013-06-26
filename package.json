@@ -26,6 +26,6 @@
     "mocha": "~1.11.0"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --reporter nyan"
+    "test": "./node_modules/mocha/bin/mocha"
   }
 }
