@@ -43,6 +43,13 @@ player.logAttribute('title');
 // 1371408021917 now playing: All Arsenal Goals 2012/13
 ```
 
+Instead of playing in the order of the original playlist, the player can shuffle at the beginning of each playthrough. This is nice for when your media playlist becomes much too predictable.
+```javascript
+player.shuffle(true);
+// at the beginning, shuffling...
+// 1371408021917 now playing: The Greatest Ever Arsenal Player - Thierry Henry
+```
+
 Once you have it playing, you can `now()` ask for what/where it's currently playing. Using the popular web application framework [express](http://expressjs.com/api.html), you can serve that information like below:
 ```javascript
 var express = require('express');
